@@ -1,7 +1,75 @@
-- 👋 Hi, I’m Savindi Widyasekara
-- 👀 I’m passionate about Data Science, AI model development, and Data Visualization
-- 🌱 I’m currently pursuing a BSc in Information Technology at SLIIT, specializing in Data Science
-- 💞️ I’m looking to collaborate on open-source projects related to data science, AI, and innovative tech solutions
-- 📫 How to reach me: You can reach me via email at savindipamodya@gmail.com or connect with me on LinkedIn
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new data science tools and frameworks, and I'm an avid traveler who enjoys discovering new cultures.
+<h1 align="center">Hi there 👋, I'm Savindi Widyasekara</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | 💡 Tech Enthusiast | 📊 Power BI & Python Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Welcome+to+my+GitHub!;Future-proofing+with+Data+Engineering+Skills;Lifelong+Learner+%F0%9F%93%9A+and+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+
+
+---
+
+### 💼 About Me
+
+- 🌱 I’m currently learning **Power BI, SQL, Python, and Data Engineering tools**
+- 🏗️ Working on: `DWBI Project`, `To-Do List In web learning platform (Spring Boot + MySQL)`
+- 📈 Passionate about **data visualization**, **ETL pipelines**, and **automated workflows**
+- 🧠 Always exploring **new technologies** to improve productivity
+- 📨 Reach me at: **savindipamodya@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,github,git,html,css,js,react,powerbi)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savindiw&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savindiw&theme=radical" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindiw&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **DWBI Assignment** | 📦 Built a data warehouse using SSIS, SSAS & Power BI with an Online Retail dataset |
+| **To-Do List Module** | 📝 Developed a Spring Boot backend & integrated it with a modern React frontend for task management |
+| **Mini Calendar View** | 📆 Added a Google Calendar-style UI to organize tasks visually by date |
+
+---
+
+### 🌐 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:savindi@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/savindiw"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 🔢 Visitor Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=savindiw&label=Profile+views&color=0e75b6&style=flat)
+
+---
+
+<details>
+<summary>📚 Fun Facts About Me</summary>
+
+- I love solving data puzzles and automating boring stuff!
+- My favorite content is about productivity and tech-life balance.
+- I want to be a modern data engineer who blends analytics, ML, and storytelling.
+
+</details>
+
